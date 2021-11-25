@@ -1,0 +1,81 @@
+.navbar {
+  background: rgb(56, 56, 56);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 5px 4px;
+}
+.navbar ul {
+  overflow: hidden;
+}
+.navbar li {
+  float: left;
+  list-style: none;
+  margin-right: 100px;
+  margin-left: 110px;
+}
+.navbar li a {
+  padding: 4px 4px;
+  color: white;
+  font-size: 30px;
+  text-decoration: none;
+}
+.navbar li a:hover {
+  background-color: rgb(155, 155, 156);
+}
+.allcontent {
+  background-color: #cccccc;
+}
+.Main {
+  color: black;
+}
+
+.Main h1 {
+  font-size: 90px;
+  font-family: "Ubuntu", sans-serif;
+  margin-top: 8%;
+  text-align: center;
+}
+.p {
+  font-family: "Tajawal", sans-serif;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 3%;
+}
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  margin-top: 1%;
+}
+
+.contact p {
+  text-align: center;
+  font-size: 30px;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 11px;
+}
+.media {
+  margin-left: 47%;
+  font-size: 60px;
+  color: #000;
+}
+.contact {
+  margin-top: 2%;
+}
+.footer {
+  background: rgb(56, 56, 56);
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: 5px 4px;
+  margin-top: 2%;
+}
+.footer p {
+  color: antiquewhite;
+  text-align-last: center;
+  font-size: 25px;
+}
